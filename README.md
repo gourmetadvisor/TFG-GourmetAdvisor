@@ -5,10 +5,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <div class="container">
-  <h1>Plataforma Web de Restaurantes</h1>
+  <h1>Gourmet Advisor</h1>
 
   <h2>Descripción</h2>
-  <p><strong>Plataforma Web de Restaurantes</strong> es una aplicación desarrollada por <strong>Nicolás Cosma</strong> y <strong>Víctor Ortega</strong> que permite a los usuarios explorar y descubrir una amplia variedad de restaurantes categorizados de manera inteligente mediante el uso de Inteligencia Artificial (IA). Nuestra plataforma emplea algoritmos de IA para clasificar los restaurantes en función de criterios como el tipo de comida, la ubicación, el estilo, y las opiniones de los usuarios, facilitando así una experiencia de búsqueda y descubrimiento personalizada.</p>
+  <p><strong>GourmetAdvisor</strong> es una aplicación desarrollada por <strong>Nicolás Cosma</strong> y <strong>Víctor Ortega</strong> que permite a los usuarios explorar y descubrir una amplia variedad de restaurantes categorizados de manera inteligente mediante el uso de Inteligencia Artificial (IA). Nuestra plataforma emplea algoritmos de IA para clasificar los restaurantes en función de criterios como el tipo de comida, la ubicación, el estilo, y las opiniones de los usuarios, facilitando así una experiencia de búsqueda y descubrimiento personalizada.</p>
 
   <h2>Funcionalidades</h2>
   <ul>
