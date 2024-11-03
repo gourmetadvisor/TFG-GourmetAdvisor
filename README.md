@@ -3,18 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Plataforma Web de Restaurantes - README</title>
-  <style>
-    body { font-family: Arial, sans-serif; line-height: 1.6; margin: 0; padding: 0; }
-    h1, h2 { color: #333; }
-    .container { max-width: 800px; margin: 20px auto; padding: 20px; }
-    a { color: #0366d6; text-decoration: none; }
-    a:hover { text-decoration: underline; }
-    code { background-color: #f4f4f4; padding: 2px 5px; border-radius: 4px; }
-    pre { background-color: #f4f4f4; padding: 10px; border-radius: 4px; overflow-x: auto; }
-  </style>
-</head>
-<body>
 
 <div class="container">
   <h1>Plataforma Web de Restaurantes</h1>
